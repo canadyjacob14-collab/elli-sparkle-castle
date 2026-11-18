@@ -1,0 +1,1 @@
+Source (React 18 + esbuild). Full build: esbuild app.tsx --bundle --minify --jsx=automatic --define:__FULL__=true. collect.ts lists every spoken line (keys). build_gh.sh is the box build script (paths are box-specific).
